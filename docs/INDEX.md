@@ -14,5 +14,8 @@ Kernel device model, resource arbitration, driver lifecycle, and DKM loader are 
 ## Required driver record
 Each driver must state hardware IDs, supported architectures, required kernel/DKM ABI, initialization/teardown behavior, resource ownership, failure modes, test evidence, firmware requirements, and license provenance. Do not claim hardware support without reproducible validation.
 
+## Technical design
+- [Driver subsystem implementation and integration design 0.1](DRIVER_SUBSYSTEM_DESIGN_0.1.md)
+
 - [Central documentation index](https://github.com/Waizusora/Wicofe-Docs/blob/main/INDEX.md)
 - [Repository documentation map](https://github.com/Waizusora/Wicofe-Docs/blob/main/REPOSITORY_DOCUMENTATION_MAP.md)
