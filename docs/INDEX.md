@@ -17,5 +17,5 @@ Each driver must state hardware IDs, supported architectures, required kernel/DK
 ## Technical design
 - [Driver subsystem implementation and integration design 0.1](DRIVER_SUBSYSTEM_DESIGN_0.1.md)
 
-- [Central documentation index](https://github.com/Waizusora/Wicofe-Docs/blob/main/INDEX.md)
-- [Repository documentation map](https://github.com/Waizusora/Wicofe-Docs/blob/main/REPOSITORY_DOCUMENTATION_MAP.md)
+- [Central documentation index](https://github.com/Waizusora/Wicofe-Doc/blob/main/INDEX.md)
+- [Repository documentation map](https://github.com/Waizusora/Wicofe-Doc/blob/main/REPOSITORY_DOCUMENTATION_MAP.md)
